@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecureDisplay</string>
+    <string name="xposed_description">Enables FLAG_SECURE, disabling screenshots and recording everywhere for the absolute maximum of privacy there is.</string>
+    <string-array name="scope">
+        <item>android</item>
+    </string-array>
+</resources>

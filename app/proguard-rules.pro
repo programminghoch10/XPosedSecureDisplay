@@ -1,0 +1,2 @@
+-keep class com.programminghoch10.SecureDisplay.SecureDisplay {*;}
+-keep class de.robv.android.xposed.** {*;}
