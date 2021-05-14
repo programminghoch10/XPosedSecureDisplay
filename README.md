@@ -41,7 +41,8 @@ This is the exact opposite of [Disable-FLAG_SECURE](https://github.com/VarunS200
   This disables it in all apps you select. So you can't screenshot your girlfriend's nudes.
   (But that probably does not matter since you're reading this anyway)
 
-
 - Xposed Implementations Tested on:
     - [EdXposed](https://github.com/ElderDrivers/EdXposed/)
     - [LSPosed](https://github.com/LSPosed/LSPosed/)
+
+- If you haven't noticed yet, this is a parody of [Disable-FLAG_SECURE](https://github.com/VarunS2002/Xposed-Disable-FLAG_SECURE) by [VarunS2002](https://github.com/VarunS2002). Thank you and all other contributors for your work.
